@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Jeremy's Garden 🌱",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "Montserrat",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
