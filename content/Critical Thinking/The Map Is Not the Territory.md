@@ -1,14 +1,3 @@
----
-title: "The Map Is Not the Territory"
-source: "https://fs.blog/map-and-territory/"
-author:
-  - "[[Shane Parrish]]"
-published: 2015-11-11
-created: 2025-01-30
-description: "The map is not the territory reminds us that our mental models of the world are not the same as the world itself. It cautions against confusing our abstractions and representations with the complex, ever-­shifting reality they aim to describe."
-tags:
-  - "clippings"
----
 *The following is an edited excerpt from [The Great Mental Models Volume 1: General Thinking Tools](https://geni.us/7NiWm)*
 
 The map of reality is not reality. Even the best maps are imperfect. That’s because maps are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. A map can also be a snapshot from a point in time, representing something that no longer exists. This is important to keep in mind as we think through problems and seek to make better decisions.
